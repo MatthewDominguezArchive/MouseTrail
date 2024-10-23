@@ -20,7 +20,7 @@ x64 Release
  |--- Linker
       |--- General
            |--- Additional Library Directories
-           |    |--- C:\Users\user\Desktop\CD\MouseTrail\Resources\GLFW\lib
+           |    |--- C:\Users\username\Desktop\CD\MouseTrail\Resources\GLFW\lib
            |--- Input
                 |--- glfw3.lib
                 |--- d3d11.lib```
