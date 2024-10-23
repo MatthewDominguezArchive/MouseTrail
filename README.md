@@ -6,7 +6,7 @@ Really dumb but satisfying animation following your mouse.
 ### How To Install
 x64 Release
 
-MouseTrail Project Properties (Change From Debug To Release):
+```MouseTrail Project Properties (Change From Debug To Release):
  |
  |--- General
  |    |--- C++ Language Standard: ISO C++20 Standard (/std:c++20)
@@ -23,4 +23,4 @@ MouseTrail Project Properties (Change From Debug To Release):
            |    |--- C:\Users\user\Desktop\CD\MouseTrail\Resources\GLFW\lib
            |--- Input
                 |--- glfw3.lib
-                |--- d3d11.lib
+                |--- d3d11.lib```
